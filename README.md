@@ -24,5 +24,5 @@ I am currently a teacher of Mathematics, Financial Education and Science at a pu
 ## 📱 Contacts
 <br />
 <p align="left">
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/> <a href="lukazds2016@gmail.com"><img width="40" height="40" src="https://img.icons8.com/color/344/gmail-new.png" alt="gmail" /></a>
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/> <a href="https://mail.google.com/mail/u/0/#inbox"><img width="40" height="40" src="https://img.icons8.com/color/344/gmail-new.png" alt="gmail" /></a>
 </p>
