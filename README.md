@@ -1,7 +1,7 @@
 <h1 align="center">Hello github people!</h1><br/>
 
 <a href=''><p align='center'><img width="460" height="300" src="https://pa1.narvii.com/6280/e6b7569dd5d38084a605d356b404c718ad66c230_hq.gif"/></p></a>
-<h2 align="center">👋 Nice to meet you! My name is Lucas.</h2><br/>
+<h3 align="center">Nice to meet you! My name is Lucas.</h3><br/>
 
 ## **Information about me**: 👀
 
@@ -31,6 +31,7 @@ I am currently a teacher of Mathematics, Financial Education and Science at a pu
 
 <p align="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
+<a href="https://www.instagram.com/lucasds314/"><img width="40" height="40" src="https://user-images.githubusercontent.com/102393984/197030751-3a4070af-8621-43c3-96df-193e635c451b.png" alt="intagram"/></a>
 </p>
 <br />
 
