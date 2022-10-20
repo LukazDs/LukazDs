@@ -1,12 +1,11 @@
-# Hello github people!
+<h1 align="center">Hello github people!</h1><br/>
 
 <a href=''><p align='center'><img width="460" height="300" src="https://pa1.narvii.com/6280/e6b7569dd5d38084a605d356b404c718ad66c230_hq.gif"/></p></a>
-
-## 👋 Nice to meet you! My name is Lucas.</br>
+<h2 align="center">👋 Nice to meet you! My name is Lucas.</h2><br/>
 
 ## **Information about me**: 👀
 
-I am a programming student at the Driven Education bootcamp and I dream of one day becoming.
+I am a programming student at the **Driven Education** bootcamp and I dream of one day becoming.
 As a programmer, I love to learn new things, especially those related to programming.<br></br>
 
 ## ✨**Fun Facts**
@@ -35,4 +34,4 @@ I am currently a teacher of Mathematics, Financial Education and Science at a pu
 </p>
 <br />
 
-<p align="right">My main email: <a href="mailto:lukazds2016@gmail.com">lukazds2016@gmail.com</a></p>
+<p align="right"><b>My main email:</b> <a href="mailto:lukazds2016@gmail.com">lukazds2016@gmail.com</a></p>
