@@ -25,4 +25,5 @@ I am currently a teacher of Mathematics, Financial Education and Science at a pu
 <br />
 <p align="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
+<a href="mailto:lukazds2016@gmail.com">teste</a>
 </p>
