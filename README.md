@@ -2,7 +2,7 @@
 
 <a href=''><p align='center'><img width="460" height="300" src="https://pa1.narvii.com/6280/e6b7569dd5d38084a605d356b404c718ad66c230_hq.gif"/></p></a>
 
-## 👋 Nice to meet you! My name is Lucas.<br></br>
+## 👋 Nice to meet you! My name is Lucas.</br>
 
 ## **Information about me**: 👀
 
@@ -21,9 +21,18 @@ I am currently a teacher of Mathematics, Financial Education and Science at a pu
 <a href="https://www.w3schools.com/nodejs/nodejs_npm.asp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /></a>
 </p>
 
-## 📱 Contacts
-<br />
+## 📊 My code stats
+<div>
+<a href="https://github.com/LukazDs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukazDs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukazDs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## 📱 Contacts with me
+
 <p align="left">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
-<a href="mailto:lukazds2016@gmail.com">teste</a>
 </p>
+<br />
+
+<p align="right">My main email: <a href="mailto:lukazds2016@gmail.com">lukazds2016@gmail.com</a></p>
