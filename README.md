@@ -30,7 +30,7 @@ I am currently a teacher of Mathematics, Financial Education and Science at a pu
 ## 📱 Contacts with me
 
 <p align="left">
-<a href="www.linkedin.com/in/lukasdsilva"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/lukasdsilva"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
 <a href="https://www.instagram.com/lucasds314/"><img width="40" height="40" src="https://user-images.githubusercontent.com/102393984/197030751-3a4070af-8621-43c3-96df-193e635c451b.png" alt="intagram"/></a>
 </p>
 <br />
